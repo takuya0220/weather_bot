@@ -1,0 +1,9 @@
+sudo npm -g install sails
+
+sails new weather_server
+
+cd weather_server
+sails lift
+
+
+
